@@ -2,11 +2,11 @@
   "basics": {
     "name": "Matthew Drover",
     "label": "Developer",
-    "picture": "",
+    "picture": "https://media.licdn.com/media/p/4/005/07c/1c3/132a460.jpg",
     "email": "m.drover25@gmail.com",
     "phone": "(709) 699-2289",
     "website": "",
-    "summary": "Matt is originally from Upper Island Cove, Newfoundland & Labrador. He received his Bachelor of Engineering from Memorial University of Newfoundland after a 6 year co-op program. He then moved to Ottawa, Ontario to pursue a career in web development at 360pi.",
+    "summary": "Matt is originally from Upper Island Cove, Newfoundland & Labrador. He received his Bachelor of Engineering from Memorial University of Newfoundland after a 6 year co-op program. He then moved to Ottawa, Ontario to pursue a career in web development at 360pi. Matt is a passionate developer who is constantly looking for new, interesting problems to solve and better ways of solving them.",
     "location": {
       "address": "315-360 Patricia Ave",
       "postalCode": "K1Z A08",
@@ -83,52 +83,6 @@
       "highlights": [
         "Engineering Dean’s List all academic terms"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Harvey and Doris Murcell Scholarship",
-      "date": "2011-05-31"
-    },
-    {
-      "title": "Charles O. Thomas Scholarship",
-      "date": "2011-05-31"
-    },
-    {
-      "title": "St. John's Port Authority Scholarship",
-      "date": "2010-05-31"
-    },
-    {
-      "title": "David S. Templeton Scholarship",
-      "date": "2010-05-31"
-    },
-    {
-      "title": "Centenary of Responsible Government Scholarship",
-      "date": "2011-05-31"
-    },
-    {
-      "title": "Toromont Scholarship",
-      "date": "2009-05-31"
-    },
-    {
-      "title": "Dr. William W. Blackall Scholarship",
-      "date": "2009-05-31"
-    },
-    {
-      "title": "Professional Engineers and Geoscientists of Newfoundland and Labrador Past President's Scholarship",
-      "date": "2008-05-31"
-    },
-    {
-      "title": "Charlie Sheppard Memorial - Hatch Scholarship",
-      "date": "2008-05-31"
-    },
-    {
-      "title": "C.D. Howe Memorial Foundation Scholarship",
-      "date": "2008-05-31"
-    },
-    {
-      "title": "Irving Oil Limited Scholarship",
-      "date": "2007-05-31"
     }
   ],
   "skills": [
