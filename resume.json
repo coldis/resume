@@ -1,0 +1,193 @@
+{
+  "basics": {
+    "name": "Matthew Drover",
+    "label": "Developer",
+    "picture": "",
+    "email": "m.drover25@gmail.com",
+    "phone": "(709) 699-2289",
+    "website": "",
+    "summary": "Matt is originally from Upper Island Cove, Newfoundland & Labrador. He received his Bachelor of Engineering from Memorial University of Newfoundland after a 6 year co-op program. He then moved to Ottawa, Ontario to pursue a career in web development at 360pi.",
+    "location": {
+      "address": "315-360 Patricia Ave",
+      "postalCode": "K1Z A08",
+      "city": "Ottawa",
+      "countryCode": "Canada",
+      "region": "Ontario"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "",
+        "url": "https://ca.linkedin.com/in/drover"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "360pi",
+      "position": "Senior Infrastructure Developer",
+      "website": "http://www.360pi.com",
+      "startDate": "2012-06-01",
+      "highlights": [
+        "Web crawling team lead",
+        "Core platform team member",
+        "Design and implementation of tool to build domain specific data extractors",
+        "Automation of server provisioning/scaling",
+        "Social and Culture team member"
+      ]
+    },
+    {
+      "company": "Research in Motion",
+      "position": "Junior Software Engineer (Co-op)",
+      "website": "http://ca.blackberry.com/",
+      "startDate": "2011-09-01",
+      "endDate": "2011-12-23",
+      "highlights": [
+        "Analyzed device battery logs to determine battery drain issues",
+        "Assisted development of Perl and Visual Basic scripts to aid in battery log analysis",
+        "Performed regular sanity testing on devices"
+      ]
+    },
+    {
+      "company": "Virtual Marine Technology",
+      "position": "Junior Software Engineer (Co-op)",
+      "website": "http://www.vmtechnology.ca/",
+      "startDate": "2011-01-05",
+      "endDate": "2011-04-30",
+      "highlights": [
+        "Obtained experience in High Level Architecture (HLA) development",
+        "Implemented visual representation of environment using Vega Prime Marine",
+        "Integrated PhysX physics engine into existing simulation engine"
+      ]
+    },
+    {
+      "company": "General Dynamics Canada",
+      "position": "Junior Software Engineer (Co-op)",
+      "website": "http://www.gdcanada.com/",
+      "startDate": "2010-04-01",
+      "endDate": "2010-08-31",
+      "highlights": [
+        "Performed regular sanity and regression tests on a suite of simulation software",
+        "Designed and implemented an application in Python to streamline the sanity/regression testing process"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Memorial University of Newfoundland",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2006-09-01",
+      "endDate": "2012-06-01",
+      "gpa": "4.0",
+      "highlights": [
+        "Engineering Dean’s List all academic terms"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Harvey and Doris Murcell Scholarship",
+      "date": "2011-05-31"
+    },
+    {
+      "title": "Charles O. Thomas Scholarship",
+      "date": "2011-05-31"
+    },
+    {
+      "title": "St. John's Port Authority Scholarship",
+      "date": "2010-05-31"
+    },
+    {
+      "title": "David S. Templeton Scholarship",
+      "date": "2010-05-31"
+    },
+    {
+      "title": "Centenary of Responsible Government Scholarship",
+      "date": "2011-05-31"
+    },
+    {
+      "title": "Toromont Scholarship",
+      "date": "2009-05-31"
+    },
+    {
+      "title": "Dr. William W. Blackall Scholarship",
+      "date": "2009-05-31"
+    },
+    {
+      "title": "Professional Engineers and Geoscientists of Newfoundland and Labrador Past President's Scholarship",
+      "date": "2008-05-31"
+    },
+    {
+      "title": "Charlie Sheppard Memorial - Hatch Scholarship",
+      "date": "2008-05-31"
+    },
+    {
+      "title": "C.D. Howe Memorial Foundation Scholarship",
+      "date": "2008-05-31"
+    },
+    {
+      "title": "Irving Oil Limited Scholarship",
+      "date": "2007-05-31"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "Python",
+        "Ansible",
+        "AWS"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Intermediate",
+      "keywords": [
+        "Javascript",
+        "Ember",
+        "MongoDB",
+        "PostgreSQL",
+        "Go",
+        "Ruby"
+      ]
+    },
+    {
+      "name": "Other Languages",
+      "level": "Intermediate",
+      "keywords": [
+        "C",
+        "C++",
+        "Java",
+        "Matlab"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports",
+      "keywords": [
+        "Hockey",
+        "Table Tennis",
+        "Volleyball",
+        "Running",
+        "Cycling"
+      ]
+    },
+    {
+      "name": "Gaming",
+      "keywords": [
+        "Various Board Games",
+        "PS4"
+      ]
+    }
+  ],
+  "references": []
+}
