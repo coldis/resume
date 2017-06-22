@@ -8,11 +8,11 @@
     "website": "",
     "summary": "Matt is originally from Upper Island Cove, Newfoundland & Labrador. He received his Bachelor of Engineering from Memorial University of Newfoundland after a 6 year co-op program. He then moved to Ottawa, Ontario to pursue a career in web development at 360pi. Matt is a passionate developer who is constantly looking for new, interesting problems to solve and better ways of solving them.",
     "location": {
-      "address": "315-360 Patricia Ave",
-      "postalCode": "K1Z A08",
-      "city": "Ottawa",
-      "countryCode": "Canada",
-      "region": "Ontario"
+      "address": "295 East Evelyn Ave, Unit 110",
+      "postalCode": "94086",
+      "city": "Sunnyvale",
+      "countryCode": "USA",
+      "region": "California"
     },
     "profiles": [
       {
@@ -24,10 +24,21 @@
   },
   "work": [
     {
+      "company": "Google Inc.",
+      "position": "Software Engineer, Tools and Infrastructure",
+      "website": "http://www.google.com",
+      "startDate": "2015-11-02",
+      "highlights": [
+        "Member of Cloud Networking Engineering Productivity Team",
+        "Team lead on several internal projects",
+      ]
+    },
+    {
       "company": "360pi",
       "position": "Senior Infrastructure Developer",
       "website": "http://www.360pi.com",
       "startDate": "2012-06-01",
+      "endDate": "2015-10-16",
       "highlights": [
         "Web crawling team lead",
         "Core platform team member",
