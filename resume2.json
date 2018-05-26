@@ -4,7 +4,8 @@
     "label": "Developer",
     "picture": "https://media.licdn.com/media/p/4/005/07c/1c3/132a460.jpg",
     "email": "m.drover25@gmail.com",
-    "phone": "(650) 686-9909",
+    "phone": "(709) 699-2289",
+    "website": "",
     "summary": "Matt is originally from Upper Island Cove, Newfoundland & Labrador. He received his Bachelor of Engineering from Memorial University of Newfoundland after a 6 year co-op program. He then moved to Ottawa, Ontario to pursue a career in web development at 360pi. Matt is a passionate developer who is constantly looking for new, interesting problems to solve and better ways of solving them.",
     "location": {
       "address": "295 East Evelyn Ave, Unit 110",
@@ -29,7 +30,7 @@
       "startDate": "2015-11-02",
       "highlights": [
         "Member of Cloud Networking Engineering Productivity Team",
-        "Team lead on several internal projects"
+        "Team lead on several internal projects",
       ]
     },
     {
