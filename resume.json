@@ -2,7 +2,6 @@
   "basics": {
     "name": "Matthew Drover",
     "label": "Developer",
-    "picture": "https://lh3.googleusercontent.com/pCS4w7xGMFE3uEZp4qKi9lqxTzaxSF5VC0IFGJ-b5zmghpO0LC5gODyud3wCkZCJeEwr6Hgom4A5De0h56nmH1xEJub8h5M3QjS-inrCrml7VhjvjczxvIT8flP7MjsYSbWr2Zl0urewQCZSXDeIFMKnKTbNO-33pcU7PcwjiA43DDEzo6rfkYwqejOSg9N61fTA3F2KJpdimLD3JEkt7PfzCQ8C3I0koCI18npvp0UFlvz3RuON_pC4v1f0djjVHijFjrUUUPI1Gkr4VPQjc5xpeZo-JSkF4DNs2DnSQ_70mtL4SqT0uOlregjslXQ3WbadO7IKicngJPJFvK2whOLa3Q1jmTvz_38G5op3pKUQ-75zJGmP-4x0Hpg7jcwG1JC1sxpDo1kncuoSbaJEpOwcFANgZqbjvmDQ9lOww8gMvRenoJsLzFcger6N0U3LEVlBPH0ifbvYpOvJX08RQJg_7BTI9rLAQugKrq_qyC83ANLY9_ASET6Ou43DU4wR9Js0x029FafnldELlGsD2uSpn7UEzwLuLSQJad4jQqE5HWGBA0Bxv1AIkwjuEPGvktgmKAebuZqjhX5FSAI9j0cjLSr98Sm8Doin5vyK9zGsk80JAqS6C4W_IA9IQNspXo5jheNDXGgF1NBdgjwnl4xx0j-YkJrR=w1123-h1159-no",
     "email": "m.drover25@gmail.com",
     "phone": "(650) 686-9909",
     "summary": "Matt is originally from Upper Island Cove, Newfoundland & Labrador. He received his Bachelor of Engineering from Memorial University of Newfoundland after a 6 year co-op program. He is a passionate developer who is constantly looking for new, interesting problems to solve and better ways of solving them.",
@@ -24,11 +23,23 @@
   "work": [
     {
       "company": "Google Inc.",
+      "position": "Senior Software Engineer, Tools and Infrastructure, IV",
+      "website": "http://www.google.com",
+      "startDate": "2018-11-01",
+      "endDate": "Present",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Google Inc.",
       "position": "Software Engineer, Tools and Infrastructure, III",
       "website": "http://www.google.com",
       "startDate": "2016-12-01",
-      "endDate": "Present",
+      "endDate": "2018-11-01",
       "highlights": [
+        "Tech lead for a team of 7 developers",
+        "Engineering-Productivity lead for Cloud-NAT and CloudNet-Control",
+        "Designed and implemented tool to index and version workflow artifacts"
       ]
     },
     {
@@ -38,8 +49,8 @@
       "startDate": "2015-11-02",
       "endDate": "2016-12-01",
       "highlights": [
-        "Member of Cloud Networking Engineering Productivity Team",
-        "Team lead on several internal projects"
+        "Engineering-Productivity lead for Cloud-Router",
+        "Designed and implemented processes to automate qualification and release of Cloud-Network components"
       ]
     },
     {
@@ -51,8 +62,8 @@
       "highlights": [
         "Web crawling team lead",
         "Core platform team member",
-        "Design and implementation of tool to build domain specific data extractors",
-        "Automation of server provisioning/scaling",
+        "Designed and implementated tool to build domain specific data extractors",
+        "Automated of server provisioning/scaling",
         "Social and Culture team member"
       ]
     },
