@@ -63,7 +63,7 @@
         "Web crawling team lead",
         "Core platform team member",
         "Designed and implementated tool to build domain specific data extractors",
-        "Automated of server provisioning/scaling",
+        "Automated server provisioning/scaling",
         "Social and Culture team member"
       ]
     },
@@ -121,20 +121,20 @@
       "name": "Web Development",
       "level": "Master",
       "keywords": [
-        "Python",
-        "Ansible",
-        "AWS"
+        "Python"
       ]
     },
     {
       "name": "Web Development",
       "level": "Intermediate",
       "keywords": [
+        "AWS",
+        "Ansible",
+        "C++",
+        "Go",
         "Javascript",
-        "Ember",
         "MongoDB",
         "PostgreSQL",
-        "Go",
         "Ruby"
       ]
     },
@@ -143,7 +143,7 @@
       "level": "Intermediate",
       "keywords": [
         "C",
-        "C++",
+        "Ember",
         "Java",
         "Matlab"
       ]
@@ -159,18 +159,19 @@
     {
       "name": "Sports",
       "keywords": [
-        "Hockey",
-        "Table Tennis",
         "Obstacle Course Racing",
+        "Table Tennis",
         "Running",
-        "Cycling"
+        "Climbing",
+        "Hockey"
       ]
     },
     {
-      "name": "Gaming",
+      "name": "Other",
       "keywords": [
-        "Various Board Games",
-        "PS4"
+        "Board Games",
+        "Coffee",
+        "Craft Beer"
       ]
     }
   ],
