@@ -2,7 +2,7 @@
   "basics": {
     "name": "Matthew Drover",
     "label": "Developer",
-    "email": "m.drover25@gmail.com",
+    "email": "matt@drover.dev",
     "phone": "(709) 769-9791",
     "summary": "Matt is originally from Upper Island Cove, Newfoundland & Labrador. He received his Bachelor of Engineering from Memorial University of Newfoundland after a 6 year co-op program. He is a passionate developer who is constantly looking for new, interesting problems to solve and better ways of solving them.",
     "location": {
@@ -22,18 +22,24 @@
   },
   "work": [
     {
+      "company": "Rally Legal",
+      "position": "Senior Software Engineer",
+      "website": "https://www.rallynow.io",
+      "startDate": "2018-11-01",
+      "highlights": []
+    },
+    {
       "company": "Google Inc.",
       "position": "Senior Software Engineer, Tools and Infrastructure, IV",
-      "website": "http://www.google.com",
+      "website": "https://www.google.com",
       "startDate": "2018-11-01",
-      "endDate": "Present",
-      "highlights": [
-      ]
+      "endDate": "2019-04-01",
+      "highlights": []
     },
     {
       "company": "Google Inc.",
       "position": "Software Engineer, Tools and Infrastructure, III",
-      "website": "http://www.google.com",
+      "website": "https://www.google.com",
       "startDate": "2016-12-01",
       "endDate": "2018-11-01",
       "highlights": [
@@ -45,7 +51,7 @@
     {
       "company": "Google Inc.",
       "position": "Software Engineer, Tools and Infrastructure, II",
-      "website": "http://www.google.com",
+      "website": "https://www.google.com",
       "startDate": "2015-11-02",
       "endDate": "2016-12-01",
       "highlights": [
@@ -56,7 +62,7 @@
     {
       "company": "360pi",
       "position": "Senior Infrastructure Developer",
-      "website": "http://www.360pi.com",
+      "website": "https://www.360pi.com",
       "startDate": "2012-06-01",
       "endDate": "2015-10-16",
       "highlights": [
@@ -70,7 +76,7 @@
     {
       "company": "Research in Motion",
       "position": "Junior Software Engineer (Co-op)",
-      "website": "http://ca.blackberry.com/",
+      "website": "https://ca.blackberry.com/",
       "startDate": "2011-09-01",
       "endDate": "2011-12-23",
       "highlights": [
@@ -82,7 +88,7 @@
     {
       "company": "Virtual Marine Technology",
       "position": "Junior Software Engineer (Co-op)",
-      "website": "http://www.vmtechnology.ca/",
+      "website": "https://www.vmtechnology.ca/",
       "startDate": "2011-01-05",
       "endDate": "2011-04-30",
       "highlights": [
@@ -94,7 +100,7 @@
     {
       "company": "General Dynamics Canada",
       "position": "Junior Software Engineer (Co-op)",
-      "website": "http://www.gdcanada.com/",
+      "website": "https://www.gdcanada.com/",
       "startDate": "2010-04-01",
       "endDate": "2010-08-31",
       "highlights": [
@@ -111,18 +117,14 @@
       "startDate": "2006-09-01",
       "endDate": "2012-06-01",
       "gpa": "4.0",
-      "highlights": [
-        "Engineering Dean’s List all academic terms"
-      ]
+      "highlights": ["Engineering Dean’s List all academic terms"]
     }
   ],
   "skills": [
     {
       "name": "Web Development",
       "level": "Master",
-      "keywords": [
-        "Python"
-      ]
+      "keywords": ["Python"]
     },
     {
       "name": "Web Development",
@@ -133,46 +135,19 @@
         "C++",
         "Go",
         "Javascript",
+        "Kubernetes",
         "MongoDB",
+        "NodeJS",
         "PostgreSQL",
-        "Ruby"
+        "React",
+        "Ruby",
+        "Terraform"
       ]
     },
     {
       "name": "Other Languages",
       "level": "Intermediate",
-      "keywords": [
-        "C",
-        "Ember",
-        "Java",
-        "Matlab"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native speaker"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Sports",
-      "keywords": [
-        "Obstacle Course Racing",
-        "Table Tennis",
-        "Running",
-        "Climbing",
-        "Hockey"
-      ]
-    },
-    {
-      "name": "Other",
-      "keywords": [
-        "Board Games",
-        "Coffee",
-        "Craft Beer"
-      ]
+      "keywords": ["C", "Ember", "Java", "Matlab"]
     }
   ],
   "references": []
